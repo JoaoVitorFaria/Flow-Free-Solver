@@ -1,11 +1,3 @@
-/*
-Trabalho 02: Resolvedor para o jogo Flow Free implementado em C++
-Disciplina: Analise e Projeto de Algoritmos II
-Professor: Pedro Henrique Del Bianco Hokama
-Aluno: João Vitor de Faria
-Matricula: 2019006030
-A implementação do BFS foi baseada no código disponível em: https://www.geeksforgeeks.org/shortest-distance-two-cells-matrix-grid/
-*/
 
 /*
 Este código tem como objetivo resolver instâncias do jogo Flow Free.
